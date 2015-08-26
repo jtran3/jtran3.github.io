@@ -17,3 +17,8 @@ body {
     margin-left:50px;
     background-color:white;
 }
+
+#kitten {
+  display:block;
+  margin: 0 auto;
+}
